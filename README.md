@@ -3,7 +3,7 @@ Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
  <div align="center">
   
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-fernandez/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-fernandez-59262517a/)
 [![Researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Romain-Fernandez-3)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umrentropie)
 
@@ -15,7 +15,7 @@ Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr.
 
  <div align="center">
- 
+
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <imp src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 ![Target Package](https://raw.githubusercontent.com/ropensci/targets/main/man/figures/logo.png)
