@@ -13,7 +13,6 @@
  <div align="left">
 
 - :microscope: I realise spatial analysis with tracking data from seabirds.
-- :computer: I develop analysis pipelines from data shaping to analysis report through different analysis stages.
 - :information_source: More information on my [thesis](https://www.theses.fr/s321772) and on my [lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain).
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr.
 
@@ -25,5 +24,6 @@
 <imp src="https://raw.githubusercontent.com/rstudio/renv/9a68bb75702be4cc8436921c5eea761d7599290a/man/figures/logo.svg" />
 <imp src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
+![OS](https://img.shields.io/badge/OS-Linux-red?style=flat&logo=linux)
 ![Target Package](/image/targets.png)
 ![rmarkdown Package](/image/rmarkdown.png)
