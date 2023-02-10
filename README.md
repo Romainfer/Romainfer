@@ -20,7 +20,7 @@ Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 <imp src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <imp src="https://raw.githubusercontent.com/rstudio/renv/9a68bb75702be4cc8436921c5eea761d7599290a/man/figures/logo.svg" />
-<imp src="/image/rmarkdown.png" />
 <imp src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 ![Target Package](/image/targets.png)
+![rmarkdown Package](/image/rmarkdown.png)
