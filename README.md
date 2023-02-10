@@ -2,7 +2,7 @@
  <div align="center">
 
 <h2> Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h2>
-<br/> <b class="term" > I'm PhD student in marine ecology at university of Reunion island (Indian ocean, France) </b>
+<br/> <b class="term" > I'm PhD student in marine ecology :ocean: at university of Reunion island (Indian ocean, France :fr:) </b>
 
  <div align="center">
   
@@ -12,8 +12,8 @@
 
  <div align="left">
 
-- :microscope: I realise spatial analysis with tracking data from seabirds.
-- :information_source: More information on my [thesis](https://www.theses.fr/s321772) and on my [lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain).
+- :microscope: I realise spatial analysis with tracking data from seabirds :bird:
+- :information_source: More information on my [:mortar_board: thesis](https://www.theses.fr/s321772) and on my [:pushpin: lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain).
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr.
 
  <div align="center">
