@@ -12,7 +12,7 @@
 
  <div align="left">
 
-- :microscope: I'm working on spatial ecology of tropical seabirds with tracking data from tag deployed on several :bird: species 
+- :computer: I'm working on spatial ecology of :bird: tropical seabirds with tracking data from tag deployed  
 - :information_source: More information on my [:mortar_board: thesis](https://www.theses.fr/s321772) and on my [:pushpin: lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain)
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr
 
