@@ -18,8 +18,8 @@
 
  <div align="center">
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="80px" height="80px"/>
-<imp src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="80px" height="40px"/>
+<imp src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="80px" height="40px"/>
 
 <imp src="https://raw.githubusercontent.com/rstudio/renv/9a68bb75702be4cc8436921c5eea761d7599290a/man/figures/logo.svg" />
 <imp src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
