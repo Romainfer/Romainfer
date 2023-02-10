@@ -12,8 +12,8 @@
 
  <div align="left">
 
-- :computer: I'm working on spatial ecology of tropical seabirds :bird: with tracking data come from tag deployed  
-- :information_source: More information on my [:mortar_board: thesis](https://www.theses.fr/s321772) and on my [:pushpin: lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain)
+- :computer: I'm working on spatial ecology of tropical seabirds :bird: with tracking data come from tag deployed on several species 
+- :information_source: More information about my [:mortar_board: thesis](https://www.theses.fr/s321772) and my [:pushpin: lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain)
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr </b>
 
  <div align="center">
