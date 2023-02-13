@@ -18,8 +18,8 @@
 
  <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="90px" height="50px"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="90px" height="50px"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="90px" height="80px"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="90px" height="80px"/>
 <img src="https://raw.githubusercontent.com/rstudio/renv/9a68bb75702be4cc8436921c5eea761d7599290a/man/figures/logo.svg" width="120px" height="80px"/>
 <img src="https://raw.githubusercontent.com/ropensci/targets/main/man/figures/logo.png" width="85px" height="80px"/>
 <img src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" width="85px" height="80px"/>
