@@ -12,13 +12,13 @@
 
  <div align="left">
 
-- :computer: I'm working on spatial ecology of tropical seabirds :bird: with tracking data come from tag deployed on several species 
+- :clipboard: I'm working on spatial ecology of tropical seabirds :bird: with tracking data come from tag deployed on several species 
 - :information_source: More information about my [:mortar_board: thesis](https://www.theses.fr/s321772) and my [:pushpin: lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain)
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr </b>
 
- <div align="center">
+## :computer: Part of my code skills
 
-## Some skills
+ <div align="center">
 
 <pre>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="120px" height="80px"/>  <img src="https://raw.githubusercontent.com/rstudio/renv/9a68bb75702be4cc8436921c5eea761d7599290a/man/figures/logo.svg" width="120px" height="80px"/><img src="https://raw.githubusercontent.com/ropensci/targets/main/man/figures/logo.png" width="85px" height="80px"/>  <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="85px" height="80px"/>  <img src="https://raw.githubusercontent.com/r-spatial/sf/main/man/figures/logo.png" width="85px" height="80px"/>  <img src="https://raw.githubusercontent.com/rspatial/terra/master/man/figures/logo.png" width="85px" height="80px"/>  <img src="https://raw.githubusercontent.com/quarto-dev/quarto-r/main/man/figures/quarto.png" width="110px" height="80px"/>  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="130px" height="80px"/>
