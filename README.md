@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h2> Do you love ecology and code? <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h2>
+<h2> Do you like working on ecology and code? <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h2>
 <br/> <b class="term" > I'm PhD student in marine ecology :ocean: at university of Reunion island (Indian ocean, France :fr: ) 
 
  <div align="center">
