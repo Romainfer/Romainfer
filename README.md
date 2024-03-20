@@ -25,7 +25,7 @@
     <img src="pictures/logo_glowLoc.png" data-fig-align="center"width="200" /> 
   </div>
   <div style="flex: 50%; padding-left: 20px;">
-    This package enables the creation of geolocation points using twilight data from GLS, employing both threshold and curve methods, and creates several results reports.
+    This package enables the creation of geolocation points using twilight data from GLS, employing both threshold and curve methods, and generates several results reports.
   </div>
 </div>
 
@@ -34,7 +34,7 @@
     <img src="pictures/logo_downshape.png" data-fig-align="center"width="200" /> 
   </div>
   <div style="flex: 50%; padding-left: 20px;">
-    This research compendium  allow to downloading and shaping CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected.
+    This research compendium allows for downloading and shaping CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected.
   </div>
 </div>
 
