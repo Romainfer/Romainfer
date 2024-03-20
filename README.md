@@ -21,5 +21,5 @@
  <div align="center">
 
 <pre>
-<img src="pictures/logo_glowLoc.png" data-fig-align="center"width="300" /> <img src="pictures/logo_downshape.png" data-fig-align="center"width="300" /> <img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="300" />
+<img src="pictures/logo_glowLoc.png" data-fig-align="center"width="200" /> <img src="pictures/logo_downshape.png" data-fig-align="center"width="200" /> <img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="200" />
 </pre>
