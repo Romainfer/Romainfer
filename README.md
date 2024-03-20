@@ -20,13 +20,29 @@
 
  <div align="center">
 
-<pre>
-<img src="pictures/logo_glowLoc.png" data-fig-align="center"width="200" /> 
-This package enables the creation of geolocation points using twilight data from GLS, employing both threshold and curve methods, and creates several results reports.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 50%;">
+    <img src="pictures/logo_glowLoc.png" data-fig-align="center"width="200" /> 
+  </div>
+  <div style="flex: 50%; padding-left: 20px;">
+    This package enables the creation of geolocation points using twilight data from GLS, employing both threshold and curve methods, and creates several results reports.
+  </div>
+</div>
 
-<img src="pictures/logo_downshape.png" data-fig-align="center"width="200" /> 
-This research compendium  allow to downloading and shaping CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 50%;">
+    <img src="pictures/logo_downshape.png" data-fig-align="center"width="200" /> 
+  </div>
+  <div style="flex: 50%; padding-left: 20px;">
+    This research compendium  allow to downloading and shaping CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected.
+  </div>
+</div>
 
-<img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="200" />
-This research compendium allows for the creation of habitat models using the biomd2 package. It works with environmental data obtained from the downshape compendium.
-</pre>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 50%;">
+    <img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="200" /> 
+  </div>
+  <div style="flex: 50%; padding-left: 20px;">
+    This research compendium allows for the creation of habitat models using the biomd2 package. It works with environmental data obtained from the downshape compendium.
+  </div>
+</div>
