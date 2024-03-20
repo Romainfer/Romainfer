@@ -16,10 +16,17 @@
 - :information_source: More information about my [:mortar_board: thesis](https://www.theses.fr/s321772) and my [:pushpin: lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain)
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr </b>
 
-## :computer: My R packages in progress
+## :computer: My R project in progress
 
  <div align="center">
 
 <pre>
-<img src="pictures/logo_glowLoc.png" data-fig-align="center"width="200" /> <img src="pictures/logo_downshape.png" data-fig-align="center"width="200" /> <img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="200" />
+<img src="pictures/logo_glowLoc.png" data-fig-align="center"width="200" /> 
+This package enables the creation of geolocation points using twilight data from GLS, employing both threshold and curve methods, and creates several results reports.
+
+<img src="pictures/logo_downshape.png" data-fig-align="center"width="200" /> 
+This research compendium  allow to downloading and shaping CMIP6 and Copernicus data from the ESGF website and the Copernicus API, with CMIP6 variables being bias-corrected.
+
+<img src="pictures/logo_modeloTrack.png" data-fig-align="center"width="200" />
+This research compendium allows for the creation of habitat models using the biomd2 package. It works with environmental data obtained from the downshape compendium.
 </pre>
