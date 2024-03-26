@@ -16,7 +16,7 @@
 - :information_source: More information about my [:mortar_board: thesis](https://www.theses.fr/s321772) and my [:pushpin: lab](https://umr-entropie.ird.nc/index.php/team/fernandez-romain)
 - :mailbox: How to reach me: romain.fernandez@univ-reunion.fr </b>
 
-## :computer: My R project in progress
+## :computer: My R projects in progress
 
  <div align="center">
 
